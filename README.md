@@ -26,7 +26,7 @@ We created various sheets in Tableau to display different visualisations, which 
 
 ![alt text](Tableau_Image/Tableau1.png)
 
-* **Data Source: Just IT**
+**Data Source: Just IT**
 
 **Full Project work book [here.](https://drive.google.com/file/d/1auLD6HsNhytJ9oVnMxpyhWXRGWfYwFm5/view?usp=drive_link)**
 
